@@ -1,2 +1,4 @@
 ['remote "local"']
     url = E:/hfdsj/DVC-Demo/tmp/dvc-storage
+['remote "local_2"']
+    url = E:/hfdsj/DVC-Demo/tmp/dvc-storage_2
