@@ -1,0 +1,5 @@
+outs:
+- md5: 77fcd0f1c7c773b9e79f081271f163db.dir
+  size: 1322341
+  nfiles: 10
+  path: fall_data
